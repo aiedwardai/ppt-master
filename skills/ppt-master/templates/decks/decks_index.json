@@ -46,5 +46,11 @@
     "canvas_format": "ppt169",
     "page_count": 5,
     "primary_color": "#006BB7"
+  },
+  "dark_tech_green_full": {
+    "summary": "暗场科技绿风格·完整版（21页）。深蓝墨黑底 + 科技绿发光强调 + 数据仪表盘质感。21 种通用版式母版，覆盖列表/对比/流程/架构/辐射/分区/风险等全谱系。纯模板，无任何行业属性，适用于科技汇报/项目方案/技术评估/管理汇报等通用场景。",
+    "canvas_format": "ppt169",
+    "page_count": 21,
+    "primary_color": "#00C060"
   }
 }
