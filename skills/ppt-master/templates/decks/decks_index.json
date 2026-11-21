@@ -52,5 +52,11 @@
     "canvas_format": "ppt169",
     "page_count": 21,
     "primary_color": "#00C060"
+  },
+  "glassmorphism_pureastra": {
+    "summary": "至臻星云 Pure Astra 品牌版玻璃拟态模板（13页，含目录页）。深空蓝底 + 玻璃面板 + 流光霓虹，全页右上角品牌角标（标记 + ALL IN AI），封面/尾页放大品牌锁定版，封面含主讲人/时间。适用于 AI 产品发布、技术分享、方案汇报、客户提案。",
+    "canvas_format": "ppt169",
+    "page_count": 13,
+    "primary_color": "#5B8DEF"
   }
 }
